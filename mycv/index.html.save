@@ -29,7 +29,6 @@
 
   <!-- ======= Header ======= -->
   <header id="header">
-     <title>Abiodun Bayowa</title>
     <div class="container">
 
       <h1><a href="index.html">Abiodun Bayowa</a></h1>
@@ -349,53 +348,40 @@
         <p>Check My Resume</p>
       </div>
 
-      <div class="row">
+       <div class="row">
         <div class="col-lg-6">
-          <h3 class="resume-title">Summary</h3>
+          <h3 class="resume-title">Sumary</h3>
           <div class="resume-item pb-0">
             <h4>Abiodun Bayowa</h4>
-            <p><em>As a seasoned IT professional, I bring a wealth of experience in managing and optimizing complex IT infrastructures. 10 years experience working with Windows and Linux system. I like new challenges and playing with tech both at and spare time. I have a homelab hosting few services and domains.</em></p>
+            <p><em>As a seasoned IT professional, I bring a wealth of experience in managing and optimizing complex IT infrastructures. I like new Challenges and playing With tech at work and spare time. I host a few services on my home-lab network.</em></p>
             <p>
-            <ul>              
+            <ul>                        
               <li>abi.bayo@hotmail.com</li>
             </ul>
             </p>
           </div>
 
-         <h3 class="resume-title">Education</h3>
-          <div class="resume-item">
-            <h4>Masters Degree</h4>
-            <h5>2011 - 2013</h5>
-	     <p>Information Technology</p>
-            <p><em>University of Sunderland, United Kingdom</em></p>
-            </div>
-	     <div class="resume-item">
-            <h4>Professional Certificate</h4>
-	    <h5>2013</h5>
-            <p><em>AWS CCP</em></p>
-          </div>
-	   </div>
-
+      <div class="row">
         <div class="col-lg-6">
           <h3 class="resume-title">Professional Experience</h3>
-          <div class="resume-item">
-           <h4>Brown Forman</h4>
-           <h5>12/2022 - Ongoing</h5>
+          <div class="resume-item pb-0">
+            <h4>BrownForman</h4>
+            <h5>12/2022 - Ongoing</h5>
 	  <p><em>IT Specialist</em></p>
 	   <p>
 	    <ul>
 		<li>Here I helped to implemente a centralized logging and monitoring system, enhancing the ability to track and troubleshoot security issues.</li>
-               <li>I also collaborated with network administrators to ensure efficient operation of the company desktop computing environment.</li>
+               <li>I also collaborated with network administrators to ensure efficient operation of the company’s desktop computing environment.</li>
               <li>deployment, configuration and L1-L3 support of a development environment - SAP, Aoffice and G-Suites</li>
               <li>VPN connections and ensured secure remote access for employees using Z-Scaler in conjunction with Okta and integrated with AD.</li>
             </ul>
             </p>
           </div>
 
-	<div class="resume-item">
+	<div class="resume-item pb-0">
 	  <h4>Bluekong Networks </h4>
 	   <h5>09/2018 - Present</h5>
-          <p><em> Infrastructure Engineer</em></p>
+          <p><em> Network Engineer</em></p>
 	  <p>
 	 <ul>	
 	<li>I used PowerShell scripting for the development of configuration scripts, automating deployment processes within SCCM and reducing provisioning time to an efficient 45 minutes.</li>
@@ -406,9 +392,18 @@
 	</p> 
 	</div>
 
+          <h3 class="resume-title">Education</h3>
+          <div class="resume-item">
+            <h4>Masters Degree &amp; Information Technology</h4>
+            <h5>2011 - 2013</h5>
+            <p><em>University OF Sunderland, United Kingdom</em></p>
+          </div>
+          <div class="resume-item">
+            <h4>Professional Certificate &amp; MCSA Embedded IT</h4>
+            <h5>2014 - 2015</h5>
+            <p><em>University Of Applied Science, Metropolia, Finland</em></p>
+          </div>
         </div>
-	</div>
-	</div>
        <!--==== Please refer back to this to uncomment====== <div class="col-lg-6">
           <h3 class="resume-title">Professional Experience</h3>
           <div class="resume-item">
